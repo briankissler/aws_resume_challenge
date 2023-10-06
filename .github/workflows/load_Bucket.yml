@@ -1,8 +1,5 @@
 name: Workflow for S3 Deploy1
-on:
-  push:
-    branches:
-    - master
+on: workflow_dispatch
 
 jobs:
   deploy:
