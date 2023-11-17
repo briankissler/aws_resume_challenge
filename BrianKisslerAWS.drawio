@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T19:16:32.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="B-pe4mxt8T5inkLOaY44" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-17T19:16:58.056Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="T3v6IY6s9JmEv8jSK5vy" version="22.1.0" type="github" pages="4">
   <diagram name="EntireArchitecture" id="buUF_mcZnvH-J1s2lz6n">
     <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U78lYmPO1JMrWFxDWr0I-10" value="Backend" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="70" width="580" height="400" as="geometry" />
+          <mxGeometry x="120" y="70" width="590" height="400" as="geometry" />
         </mxCell>
         <mxCell id="U78lYmPO1JMrWFxDWr0I-11" value="" style="swimlane;startSize=0;" vertex="1" parent="U78lYmPO1JMrWFxDWr0I-10">
           <mxGeometry x="40" y="60" width="150" height="310" as="geometry" />
