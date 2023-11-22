@@ -2,8 +2,10 @@ name: Workflow for S3 Deploy1
 
 on:
   push:
-    branches:
-    - main
+   paths:
+      - FrontEnd/**
+#    branches:
+#    - main
 
 jobs:
   deploy:
