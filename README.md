@@ -1,6 +1,6 @@
 # aws_resume_challenge
 
-In 2022 I completed the AWS Certified Cloud Practitioner exam as a requirement by my employer as part of an initiative to move all data to the cloud. I had limited experience in working in the cloud, I touched Digital Oceans for a project, but never had used AWS. I came across this challenge in the AWS Certification Sub-Reddit as I was preparing to take the Solutions Architect exam and wanted to get some practical experience in order to engrain the learnings from the exam material.
+In 2022 I completed the AWS Certified Cloud Practitioner exam as a requirement by my employer as part of an initiative to move all data to the cloud. I had limited experience in working in the cloud, I touched Digital Oceans for a project, but never had used AWS. I came across this challenge in the AWS Certification Sub-Reddit as I was preparing to take the Solutions Architect exam and wanted to get some practical experience in order to engrain the learnings from the exam material. 
 
 Below are the requirements for this project/challenge which I worked in blocks.
 
