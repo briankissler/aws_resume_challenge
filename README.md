@@ -13,4 +13,6 @@ Create a user counter to track page hits using API Gateway, DynamoDB, Lambda and
 Block3
 Utilize an Infrastructure as Code - IaC, Source Control and CI/CD - Continuous Integration/Deployment to automate the promotion of changes to the website.
 
+[Check out my blog about this project](https://dev.to/briankissler/my-aws-journey-in-the-resume-challenge-18m4)
+
 ![BrianKisslerAWS-EntireArchitecture](https://github.com/briankissler/aws_resume_challenge/assets/55636163/5d9757a9-375c-4281-89c8-3ea29fc52e61)
